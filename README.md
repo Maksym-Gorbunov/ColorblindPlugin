@@ -6,11 +6,13 @@ path: "lib/opencv"
 
 
 Method 1: findConflict()
+Find color conflict and mark areas which are difficult for color blind peoples to se
 IN:  Mat image (bgr-format som default)
 OUT: List<Rect>
 
 
 Method 2:
+Filter matched area, show how color blind people se 
 getFilteredImage(img, rectList, new Point());
 IN: *Mat image
     *List<Rect>  //from findConflicts()
@@ -27,16 +29,29 @@ OBS!
 # PRESENTATION
   
 ![](info/ColorblindPlugin_presentation_(1).png)  
-![](info/ColorblindPlugin_presentation (2).png)  
-![](info/ColorblindPlugin_presentation (3).png)  
-![](info/ColorblindPlugin_presentation (4).png)  
-![](info/ColorblindPlugin_presentation (5).png)  
-![](info/ColorblindPlugin_presentation (6).png)  
-![](info/ColorblindPlugin_presentation (7).png)  
-![](info/ColorblindPlugin_presentation (8).png)  
-![](info/ColorblindPlugin_presentation (9).png)  
-![](info/ColorblindPlugin_presentation (10).png)  
-![](info/ColorblindPlugin_presentation (11).png)  
-![](info/ColorblindPlugin_presentation (12).png)  
-![](info/ColorblindPlugin_presentation (13).png)  
-![](info/ColorblindPlugin_presentation (14).png)  
+
+![](info/ColorblindPlugin_presentation_(2).png)  
+
+![](info/ColorblindPlugin_presentation_(3).png)  
+
+![](info/ColorblindPlugin_presentation_(4).png)  
+
+![](info/ColorblindPlugin_presentation_(5).png)  
+
+![](info/ColorblindPlugin_presentation_(6).png)  
+
+![](info/ColorblindPlugin_presentation_(7).png)  
+
+![](info/ColorblindPlugin_presentation_(8).png)  
+
+![](info/ColorblindPlugin_presentation_(9).png)  
+
+![](info/ColorblindPlugin_presentation_(10).png)  
+
+![](info/ColorblindPlugin_presentation_(11).png)  
+
+![](info/ColorblindPlugin_presentation_(12).png)  
+
+![](info/ColorblindPlugin_presentation_(13).png)  
+
+![](info/ColorblindPlugin_presentation_(14).png)  
