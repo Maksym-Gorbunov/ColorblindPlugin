@@ -26,7 +26,7 @@ OBS!
 
 # PRESENTATION
   
-![](info/ColorblindPlugin_presentation (1).png)  
+![](info/ColorblindPlugin_presentation (1).PNG)  
 ![](info/ColorblindPlugin_presentation (2).png)  
 ![](info/ColorblindPlugin_presentation (3).png)  
 ![](info/ColorblindPlugin_presentation (4).png)  
