@@ -1,4 +1,6 @@
 # Colorblind Plugin
+@author Maksym Gorbunov
+
 
 Libraries:
 OpenCv
