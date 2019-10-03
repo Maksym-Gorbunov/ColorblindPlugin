@@ -1,6 +1,11 @@
 # Colorblind Plugin
 @author Maksym Gorbunov
 
+* Java
+* OpenCv
+* Machine Vision 
+* Artificial Intelligence
+* Image filtering and transformation 
 
 Libraries:
 OpenCv
